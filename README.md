@@ -29,5 +29,5 @@ npm install
 npm run dev
 
 Backend Repository
-This frontend connects to a .NET backend API. [Link to backend repository]
+This frontend connects to a .NET backend API. https://github.com/Mburg03/issue-tracker-api
 ```
